@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 42CD7CD7579A2177 1499106515 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_kernel_xiaomi_msm8956\nnonce 1499106519-F51C42E385DF17303C69A711976DF4EEDA333125\n\n0000000000000000000000000000000000000000 1f22ebb3ab0cbcfcddeb301c5177b83d9b15bad5 refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZWozTAAoJEELNfNdXmiF3WrwIAKBGU/tGdfxakgGrZxmhKgMS\nDftDZ36q87fv8d0zRfdz1D4oimmEeZthv5evcRr+OerCODDyJVyqUo/oSPl81QP/\nB8ndrMXV8UxihQGSI6yuUNBYqsNrLaiq7slkHykNLxs1W/JWxn2OXn0l9WYWUNSk\nqRY/lS1Ah0I6+f5Zdk2VDfIPRkflq+kB5WiOWsQd0VfDEPVF1ps0fNgDav6kKLZA\n5iFlr6kP4XK3zqzZUn9jegqr3cpWuxOviyFD2iNGjl3PtI2/ZfpKlx0SGlVXkz1a\nBmJToBLs0MekJpWmavA7kS+emL2ybJ6zw0k8BlzWnHsOF0aUamZLpfa+/BchLQY\u003d\n\u003d7ZM5\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
